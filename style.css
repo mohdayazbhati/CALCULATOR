@@ -14,12 +14,9 @@ html{
     background-color: #43cea2;
     min-width: 240px;
     border-radius: 9px;
-    /* cursor: pointer; */
     user-select: none;
 }
 .row{
-    /* padding: auto; */
-    /* background-color: lightsalmon; */
     padding: 5px;
     text-align: center;
 }
@@ -35,12 +32,9 @@ html{
 .button:hover{
   background-color: #42275a;
   color: white;
-  /* border: 2px solid #42275a; */
   border: 2px solid white;
 }
 .diff:hover{
-  /* background-color: #42275a; */
-  /* color: white; */
   border: 2px solid #42275a;
 }
 .input{
